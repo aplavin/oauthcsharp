@@ -1,0 +1,38 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles />
+    <RecentEdits />
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="31" />
+      <Item value="OAuthProtocolException`0" priority="31" />
+      <Item value="Base64FormattingOptions`0" priority="31" />
+      <Item value="base" priority="31" />
+      <Item value="Serializable" priority="31" />
+      <Item value="return" priority="127" />
+      <Item value="if" priority="95" />
+      <Item value="x" priority="95" />
+      <Item value="y" priority="95" />
+      <Item value="null" priority="95" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
